@@ -1,4 +1,4 @@
-// ColoredPoints.js (c) 2012 Matsuda
+// Based on ColoredPoints.js (c) 2012 Matsuda
 // Vertex Shader Program
 var VSHADER_SOURCE = `
     attribute vec4 a_Position;
